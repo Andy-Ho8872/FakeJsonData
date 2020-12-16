@@ -1,76 +1,122 @@
-{
-    "products": [
-        {
-            "id": 1,
-            "title": "Sony 高品質相機",
-            "url": "https://d.ecimg.tw/items/DGAD81A9009HU8N/000001_1541388101.jpg",
-            "price": 38888,
-	        "description":"doloribus dolorem quasi dicta iste nostrum!"
-        },
-        {
-            "id": 2,
-            "title": "Nikon 輕便數位相機",
-            "url": "https://img2.momoshop.com.tw/goodsimg/0006/759/439/6759439_R.jpg?t=1590029414",
-            "price": 43999,
-            "description":"Lorem ipsum dolor sit eveniet!"
-	
-        },
-        {
-            "id": 3,
-            "title": "Samesung 曲面電腦螢幕",
-            "url": "https://s.yimg.com/zp/MerchandiseImages/027BA9BDDF-Product-19009359.jpg",
-            "price": 12999,
-            "description":"Lorem ipsum dolor sit amet consectetur adolestiae ipsum ex reiciendis"
-        },
-        {
-            "id": 4,
-            "title": "Acer 21型 高對比電腦螢幕",
-            "url": "https://s.yimg.com/zp/images/E68ED6E807C6C4D0781B35ACCEBB32FABA97491E",
-            "price": 7899,
-            "description":"quasi ullam consequuntur cupiditate obcaecati voluptas earum animi unde nisi"
-        },
-        {
-            "id": 5,
-            "title": "流行色調素T",
-            "url": "https://cf.shopee.tw/file/b5b4221e7a631f610698bf23fba859c8",
-            "price": 399,
-            "description":"doloribus dolorem quasi dicta iste nostrum!"
-        },
-        {
-            "id": 6,
-            "title": "時尚大學T",
-            "url": "https://www.viewfinder.com.tw/upload/lightbox_data/pl1_190230403_1472805493.jpg",
-            "price": 768,
-            "description":"Lorem ipsum dolor sit amet consectetur adolestiae ipsum ex reiciendis"
-            
-        },
-        {
-            "id": 7,
-            "title": "純棉素色長褲",
-            "url": "https://cf.shopee.tw/file/8575e0fc265119e4d0eafa4323e74e50",
-            "price": 699,
-            "description":"quasi ullam consequuntur cupiditate obcaecati voluptas"
-        },
-        {
-            "id": 8,
-            "title": "CK 男休閒長褲",
-            "url": "https://www.costco.com.tw/medias/sys_master/products/h9c/h02/8827606433822.jpg",
-            "price": 689,
-            "description":"Lorem ipsum dolor sit amet consectetur adolestiae ipsum ex"
-        },
-        {
-            "id": 9,
-            "title": "韓版設計後背包",
-            "url": "https://d.ecimg.tw/items/DIBF2RA9008PMTH/000001_1542332754.jpg",
-            "price": 439,
-            "description":"consectetur adolestiae ipsum ex reiciendis"
-        },
-        {
-            "id": 10,
-            "title": "CONVERSE-後背包",
-            "url": "https://s.yimg.com/zp/images/0CD3BAF21A2885A629D9B72AF99ACAEEEE312916",
-            "price": 1099,
-            "description":"ipsum dolor sit amet consectetur adolestiae ipsum"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "title": "Sony 高品質相機\"",
+    "description": "doloribus dolorem quasi dicta iste nostrum!",
+    "unit_price": "38888.00",
+    "imgUrl": "https:\/\/d.ecimg.tw\/items\/DGAD81A9009HU8N\/000001_1541388101.jpg",
+    "stock_quantity": 10,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Nikon 輕便數位相機",
+    "description": "doloribus dolorem quasi dicta iste nostrum!",
+    "unit_price": "43999.00",
+    "imgUrl": "https:\/\/img2.momoshop.com.tw\/goodsimg\/0006\/759\/439\/6759439_R.jpg?t=1590029414",
+    "stock_quantity": 15,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 1
+  },
+  {
+    "id": 3,
+    "title": "Samesung 曲面電腦螢幕",
+    "description": "consectetur adolestiae ipsum ex reiciendis",
+    "unit_price": "12999.00",
+    "imgUrl": "https:\/\/s.yimg.com\/zp\/MerchandiseImages\/027BA9BDDF-Product-19009359.jpg",
+    "stock_quantity": 15,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 1
+  },
+  {
+    "id": 4,
+    "title": "Acer 21型 高對比電腦螢幕",
+    "description": "quasi ullam consequuntur cupiditate obcaecati voluptas earum animi unde nisi",
+    "unit_price": "7899.00",
+    "imgUrl": "https:\/\/s.yimg.com\/zp\/images\/E68ED6E807C6C4D0781B35ACCEBB32FABA97491E",
+    "stock_quantity": 10,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 1
+  },
+  {
+    "id": 5,
+    "title": "流行色調素T",
+    "description": "doloribus dolorem quasi dicta iste nostrum!",
+    "unit_price": "399.00",
+    "imgUrl": "https:\/\/cf.shopee.tw\/file\/b5b4221e7a631f610698bf23fba859c8",
+    "stock_quantity": 15,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 2
+  },
+  {
+    "id": 6,
+    "title": "時尚大學T",
+    "description": "Lorem ipsum dolor sit amet consectetur adolestiae ipsum ex reiciendis",
+    "unit_price": "768.00",
+    "imgUrl": "https:\/\/www.viewfinder.com.tw\/upload\/lightbox_data\/pl1_190230403_1472805493.jpg",
+    "stock_quantity": 20,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 2
+  },
+  {
+    "id": 7,
+    "title": "純棉素色長褲",
+    "description": "quasi ullam consequuntur cupiditate obcaecati voluptas",
+    "unit_price": "699.00",
+    "imgUrl": "https:\/\/cf.shopee.tw\/file\/8575e0fc265119e4d0eafa4323e74e50",
+    "stock_quantity": 20,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 2
+  },
+  {
+    "id": 8,
+    "title": "CK 男休閒長褲",
+    "description": "Lorem ipsum dolor sit amet consectetur adolestiae ipsum ex",
+    "unit_price": "689.00",
+    "imgUrl": "https:\/\/www.costco.com.tw\/medias\/sys_master\/products\/h9c\/h02\/8827606433822.jpg",
+    "stock_quantity": 30,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 2
+  },
+  {
+    "id": 9,
+    "title": "韓版設計後背包",
+    "description": "consectetur adolestiae ipsum ex reiciendis",
+    "unit_price": "439.00",
+    "imgUrl": "https:\/\/d.ecimg.tw\/items\/DIBF2RA9008PMTH\/000001_1542332754.jpg",
+    "stock_quantity": 15,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 3
+  },
+  {
+    "id": 10,
+    "title": "CONVERSE-後背包",
+    "description": "ipsum dolor sit amet consectetur adolestiae ipsum",
+    "unit_price": "1099.00",
+    "imgUrl": "https:\/\/s.yimg.com\/zp\/images\/0CD3BAF21A2885A629D9B72AF99ACAEEEE312916",
+    "stock_quantity": 20,
+    "available": true,
+    "created_at": null,
+    "updated_at": null,
+    "tag_id": 3
+  }
+]
